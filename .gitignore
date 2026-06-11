@@ -6,3 +6,6 @@ wp-content/wflogs/
 wp-content/et-cache/
 wp-config.php
 wp-content/debug.log
+*.zip
+*.sql
+.env
