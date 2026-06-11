@@ -1,0 +1,8 @@
+wp-content/uploads/
+wp-content/cache_old/
+wp-content/ai1wm-backups/
+wp-content/wp-rocket-config/
+wp-content/wflogs/
+wp-content/et-cache/
+wp-config.php
+wp-content/debug.log
