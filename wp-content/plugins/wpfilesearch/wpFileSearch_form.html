@@ -1,0 +1,21 @@
+<div class="wrap"> 
+	<p>
+		<b>
+			Wordpress Search<br/>
+			Assisting administrators locate any reference within the whole of wordpress without even leaving wordpress!
+		</b>
+	</p>
+	<form onsubmit="return false;">
+		Search files for:<br>
+		<input type="text" placeholder="function search" onkeyup="wpFileSearch()" id="searchTerm"/> <span id="status"> </span>
+	</form>
+	<p id="resultsFound" style="display: none;">
+	<br id="resultsTitle"/> Results:
+	<select name="files" id="searchResults"> </select>
+	<br>
+	<button onclick="getFileContents();">load file</button>
+	</p>
+	<p style="display: none;" id="loadContents" >
+	<textarea rows="20" cols="50" id="fileContents"></textarea>
+	</p>
+</div>

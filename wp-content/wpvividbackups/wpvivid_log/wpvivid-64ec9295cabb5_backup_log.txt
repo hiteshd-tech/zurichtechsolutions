@@ -1,0 +1,170 @@
+Log created: 2023-08-28 05:27:01
+Type: backup
+[2023-08-28 05:27:04][notice]Start backing up.
+[2023-08-28 05:27:04][notice]server info fcgi:On max execution time: 900 wp version:6.3 php version:7.4.25 db version:8.0.28 php ini:safe_mode: memory_limit:256M memory_get_usage:116.13 MB memory_get_peak_usage:116.50 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-08-28 05:27:04][notice]Prepare to backup backup_themes files.
+[2023-08-28 05:27:04][notice]File number: 1086
+[2023-08-28 05:27:04][notice]Start compressing backup_themes
+[2023-08-28 05:27:04][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_themes.zip
+[2023-08-28 05:27:07][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_themes.zip, filesize: 31.39 MB
+[2023-08-28 05:27:07][notice]Compressing backup_themes completed
+[2023-08-28 05:27:07][notice]Backing up backup_themes completed.
+[2023-08-28 05:27:07][notice]Prepare to backup backup_plugin files.
+[2023-08-28 05:27:07][notice]File number: 15823
+[2023-08-28 05:27:07][notice]Start compressing backup_plugin
+[2023-08-28 05:27:08][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_plugin.part001.zip
+[2023-08-28 05:27:17][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_plugin.part001.zip, filesize: 193.91 MB
+[2023-08-28 05:27:17][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_plugin.part002.zip
+[2023-08-28 05:27:33][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_plugin.part002.zip, filesize: 45.94 MB
+[2023-08-28 05:27:33][notice]Compressing backup_plugin completed
+[2023-08-28 05:27:33][notice]Backing up backup_plugin completed.
+[2023-08-28 05:27:33][notice]Prepare to backup backup_uploads files.
+[2023-08-28 05:27:33][notice]File number: 5657
+[2023-08-28 05:27:33][notice]Start compressing backup_uploads
+[2023-08-28 05:27:33][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part001.zip
+[2023-08-28 05:27:38][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part001.zip, filesize: 199.10 MB
+[2023-08-28 05:27:38][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part002.zip
+[2023-08-28 05:27:45][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part002.zip, filesize: 200.09 MB
+[2023-08-28 05:27:45][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part003.zip
+[2023-08-28 05:27:58][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part003.zip, filesize: 138.81 MB
+[2023-08-28 05:27:58][notice]Compressing backup_uploads completed
+[2023-08-28 05:27:58][notice]Backing up backup_uploads completed.
+[2023-08-28 05:27:58][notice]Prepare to backup backup_content files.
+[2023-08-28 05:27:58][notice]File number: 10
+[2023-08-28 05:27:58][notice]Start compressing backup_content
+[2023-08-28 05:27:58][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_content.zip
+[2023-08-28 05:27:58][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_content.zip, filesize: 32.60 KB
+[2023-08-28 05:27:58][notice]Compressing backup_content completed
+[2023-08-28 05:27:58][notice]Backing up backup_content completed.
+[2023-08-28 05:27:58][notice]Prepare to backup backup_core files.
+[2023-08-28 05:27:58][notice]File number: 5084
+[2023-08-28 05:27:58][notice]Start compressing backup_core
+[2023-08-28 05:27:58][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_core.zip
+[2023-08-28 05:28:07][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_core.zip, filesize: 100.08 MB
+[2023-08-28 05:28:07][notice]Compressing backup_core completed
+[2023-08-28 05:28:07][notice]Backing up backup_core completed.
+[2023-08-28 05:28:07][notice]Prepare to backup backup_merge files.
+[2023-08-28 05:28:07][notice]File number: 8
+[2023-08-28 05:28:07][notice]Start compressing backup_merge
+[2023-08-28 05:28:08][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip
+[2023-08-28 05:28:20][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip, filesize: 192.12 MB
+[2023-08-28 05:28:20][notice]Cleaned up file, filename: /home/dh_7h7zfd/zurichtechsolutions.com/wp-content/wpvividbackups/zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part002.zip
+[2023-08-28 05:28:20][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part002.zip
+[2023-08-28 05:28:35][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part002.zip, filesize: 193.08 MB
+[2023-08-28 05:28:35][notice]Cleaned up file, filename: /home/dh_7h7zfd/zurichtechsolutions.com/wp-content/wpvividbackups/zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part001.zip
+[2023-08-28 05:28:35][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part003.zip
+[2023-08-28 05:28:48][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part003.zip, filesize: 68.09 MB
+[2023-08-28 05:28:48][notice]Cleaned up file, filename: /home/dh_7h7zfd/zurichtechsolutions.com/wp-content/wpvividbackups/zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_plugin.part001.zip
+[2023-08-28 05:28:48][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part004.zip
+[2023-08-28 05:28:57][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part004.zip, filesize: 129.81 MB
+[2023-08-28 05:28:57][notice]Cleaned up file, filename: /home/dh_7h7zfd/zurichtechsolutions.com/wp-content/wpvividbackups/zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_uploads.part003.zip
+[2023-08-28 05:28:57][notice]Prepare to zip files. file: zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part005.zip
+[2023-08-28 05:29:06][notice]Adding zip files completed.zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part005.zip, filesize: 55.43 MB
+[2023-08-28 05:29:06][notice]Cleaned up file, filename: /home/dh_7h7zfd/zurichtechsolutions.com/wp-content/wpvividbackups/zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_core.zip
+[2023-08-28 05:29:06][notice]Cleaned up file, filename: /home/dh_7h7zfd/zurichtechsolutions.com/wp-content/wpvividbackups/zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_plugin.part002.zip
+[2023-08-28 05:29:06][notice]Cleaned up file, filename: /home/dh_7h7zfd/zurichtechsolutions.com/wp-content/wpvividbackups/zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_themes.zip
+[2023-08-28 05:29:06][notice]Cleaned up file, filename: /home/dh_7h7zfd/zurichtechsolutions.com/wp-content/wpvividbackups/zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_content.zip
+[2023-08-28 05:29:06][notice]Compressing backup_merge completed
+[2023-08-28 05:29:06][notice]Backing up backup_merge completed.
+[2023-08-28 05:29:06][notice]Backup completed.
+[2023-08-28 05:29:06][notice]Backup succeeded.
+[2023-08-28 05:29:06][notice]Start upload.
+[2023-08-28 05:29:06][notice]Connect site 
+[2023-08-28 05:29:07][notice]Start uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip
+[2023-08-28 05:29:08][notice]{"result":"success","file_status":{"status":"start"}}
+[2023-08-28 05:29:08][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 0
+[2023-08-28 05:29:13][notice]finished send chunk
+[2023-08-28 05:29:13][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 2.00 MB speed:349.53kb/s
+[2023-08-28 05:29:13][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 2097152
+[2023-08-28 05:29:19][notice]finished send chunk
+[2023-08-28 05:29:19][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 4.00 MB speed:349.53kb/s
+[2023-08-28 05:29:19][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 4194304
+[2023-08-28 05:29:25][notice]finished send chunk
+[2023-08-28 05:29:25][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 6.00 MB speed:349.53kb/s
+[2023-08-28 05:29:25][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 6291456
+[2023-08-28 05:29:31][notice]finished send chunk
+[2023-08-28 05:29:31][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 8.00 MB speed:349.53kb/s
+[2023-08-28 05:29:31][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 8388608
+[2023-08-28 05:29:37][notice]finished send chunk
+[2023-08-28 05:29:37][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 10.00 MB speed:349.53kb/s
+[2023-08-28 05:29:37][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 10485760
+[2023-08-28 05:29:42][notice]finished send chunk
+[2023-08-28 05:29:42][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 12.00 MB speed:419.43kb/s
+[2023-08-28 05:29:42][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 12582912
+[2023-08-28 05:29:48][notice]finished send chunk
+[2023-08-28 05:29:48][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 14.00 MB speed:349.53kb/s
+[2023-08-28 05:29:48][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 14680064
+[2023-08-28 05:29:54][notice]finished send chunk
+[2023-08-28 05:29:54][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 16.00 MB speed:349.53kb/s
+[2023-08-28 05:29:54][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 16777216
+[2023-08-28 05:30:00][notice]finished send chunk
+[2023-08-28 05:30:00][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 18.00 MB speed:349.53kb/s
+[2023-08-28 05:30:00][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 18874368
+[2023-08-28 05:30:06][notice]finished send chunk
+[2023-08-28 05:30:06][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 20.00 MB speed:349.53kb/s
+[2023-08-28 05:30:06][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 20971520
+[2023-08-28 05:30:12][notice]finished send chunk
+[2023-08-28 05:30:12][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 22.00 MB speed:349.53kb/s
+[2023-08-28 05:30:12][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 23068672
+[2023-08-28 05:30:18][notice]finished send chunk
+[2023-08-28 05:30:18][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 24.00 MB speed:349.53kb/s
+[2023-08-28 05:30:18][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 25165824
+[2023-08-28 05:30:23][notice]finished send chunk
+[2023-08-28 05:30:23][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 26.00 MB speed:419.43kb/s
+[2023-08-28 05:30:23][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 27262976
+[2023-08-28 05:30:29][notice]finished send chunk
+[2023-08-28 05:30:29][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 28.00 MB speed:349.53kb/s
+[2023-08-28 05:30:29][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 29360128
+[2023-08-28 05:30:35][notice]finished send chunk
+[2023-08-28 05:30:35][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 30.00 MB speed:349.53kb/s
+[2023-08-28 05:30:35][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 31457280
+[2023-08-28 05:30:41][notice]finished send chunk
+[2023-08-28 05:30:41][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 32.00 MB speed:349.53kb/s
+[2023-08-28 05:30:41][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 33554432
+[2023-08-28 05:30:47][notice]finished send chunk
+[2023-08-28 05:30:47][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 34.00 MB speed:349.53kb/s
+[2023-08-28 05:30:47][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 35651584
+[2023-08-28 05:30:53][notice]finished send chunk
+[2023-08-28 05:30:53][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 36.00 MB speed:349.53kb/s
+[2023-08-28 05:30:53][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 37748736
+[2023-08-28 05:30:58][notice]finished send chunk
+[2023-08-28 05:30:58][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 38.00 MB speed:419.43kb/s
+[2023-08-28 05:30:59][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 39845888
+[2023-08-28 05:31:04][notice]finished send chunk
+[2023-08-28 05:31:04][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 40.00 MB speed:349.53kb/s
+[2023-08-28 05:31:04][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 41943040
+[2023-08-28 05:31:10][notice]finished send chunk
+[2023-08-28 05:31:10][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 42.00 MB speed:349.53kb/s
+[2023-08-28 05:31:10][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 44040192
+[2023-08-28 05:31:16][notice]finished send chunk
+[2023-08-28 05:31:16][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 44.00 MB speed:349.53kb/s
+[2023-08-28 05:31:16][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 46137344
+[2023-08-28 05:31:22][notice]finished send chunk
+[2023-08-28 05:31:22][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 46.00 MB speed:349.53kb/s
+[2023-08-28 05:31:22][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 48234496
+[2023-08-28 05:31:28][notice]finished send chunk
+[2023-08-28 05:31:28][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 48.00 MB speed:349.53kb/s
+[2023-08-28 05:31:28][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 50331648
+[2023-08-28 05:31:34][notice]finished send chunk
+[2023-08-28 05:31:34][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 50.00 MB speed:349.53kb/s
+[2023-08-28 05:31:34][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 52428800
+[2023-08-28 05:31:39][notice]finished send chunk
+[2023-08-28 05:31:39][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 52.00 MB speed:419.43kb/s
+[2023-08-28 05:31:39][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 54525952
+[2023-08-28 05:31:45][notice]finished send chunk
+[2023-08-28 05:31:45][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 54.00 MB speed:349.53kb/s
+[2023-08-28 05:31:45][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 56623104
+[2023-08-28 05:31:51][notice]finished send chunk
+[2023-08-28 05:31:51][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 56.00 MB speed:349.53kb/s
+[2023-08-28 05:31:51][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 58720256
+[2023-08-28 05:31:57][notice]finished send chunk
+[2023-08-28 05:31:57][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 58.00 MB speed:349.53kb/s
+[2023-08-28 05:31:57][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 60817408
+[2023-08-28 05:32:03][notice]finished send chunk
+[2023-08-28 05:32:03][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 60.00 MB speed:349.53kb/s
+[2023-08-28 05:32:03][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 62914560
+[2023-08-28 05:32:09][notice]finished send chunk
+[2023-08-28 05:32:09][notice]Uploading zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip Total size: 192.12 MB Uploaded: 62.00 MB speed:349.53kb/s
+[2023-08-28 05:32:09][notice]send chunk zurichtechsolutions.com_wpvivid-64ec9295cabb5_2023-08-28-05-27_backup_all.part001.zip offset 65011712
+[2023-08-28 05:36:04][notice]Not responding for a long time.
+[2023-08-28 05:40:07][notice]Backup cancelled.

@@ -1,0 +1,616 @@
+.home-our-service-box .learn-more {
+     color: #5f727f;
+     line-height: 25px;
+     font-size: 18px;
+     margin-top: 5px;
+}
+.new-layout .home-our-service-box .learn-more {
+     color: #fff;
+}
+ .testimonials_inner_wrap {
+     text-align: center;
+}
+ .testimonials_inner_wrap span {
+     color: #dc1b5a;
+     text-transform: uppercase;
+     font-weight: 700;
+     font-size: 14px;
+     letter-spacing: 0;
+     font-family: "Montserrat";
+}
+ .testimonials_inner_wrap p {
+     font-size: 24px;
+     line-height: 38px;
+     margin-bottom: 0px;
+     font-weight: 300;
+}
+ .testimonials_slider_wrapper .slick-next {
+     width: 80px;
+     right: 0px !important;
+}
+ .testimonials_slider_wrapper .slick-prev {
+     width: 80px;
+     left: 0px !important;
+     z-index: 999;
+}
+ .testimonials_slider_wrapper .slick-next::before {
+     position: absolute;
+     content: "";
+     font-family: "Font Awesome 6 Free";
+     font-weight: 900 !important;
+     top: 50%;
+     left: 50%;
+     width: 80px;
+     margin-left: -40px;
+     font-size: 48px;
+     height: 80px;
+     line-height: 80px;
+     text-align: center;
+     text-indent: 0;
+     margin-top: -40px;
+     background-color: transparent;
+     opacity: 1;
+     color: #3c3950;
+}
+ .testimonials_slider_wrapper .slick-prev:before {
+     position: absolute;
+     content: "";
+     font-family: "Font Awesome 6 Free";
+     font-weight: 900 !important;
+     top: 50%;
+     left: 50%;
+     width: 80px;
+     margin-left: -40px;
+     font-size: 48px;
+     height: 80px;
+     line-height: 80px;
+     text-align: center;
+     text-indent: 0;
+     margin-top: -40px;
+     background-color: transparent;
+     opacity: 1;
+     color: #3c3950;
+}
+ .testimonail-section:hover .testimonials_slider_wrapper .slick-next::before, .testimonail-section:hover .testimonials_slider_wrapper .slick-prev::before {
+     background-color: #dc1b5a;
+}
+ .testimonials_slider_wrapper .slick-next:hover::before, .testimonials_slider_wrapper .slick-prev:hover::before {
+     color: #fff;
+}
+/* about us page */
+ .inner_text_li ul {
+     padding-inline-start: 40px;
+}
+ .inner_text_li li strong {
+     font-weight: 600;
+}
+/* Team Page */
+ .et_team_grid .team_wrapper .team_member:not(:last-child) {
+     margin-bottom: 20px;
+}
+ .et_team_grid .team_wrapper .team_member {
+     padding: 47px 30px;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_img_wrap {
+     text-align: center;
+     margin-bottom: 45px;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_img_wrap img {
+     border-radius: 50%;
+     padding: 6px;
+     border: 3px solid #dce1e4;
+     -o-transition: all 0.5s;
+     -webkit-transition: all 0.5s;
+     transition: all 0.5s;
+     height: 250px;
+     width: 250px;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_img_wrap img:hover {
+     border: 10px solid #dc1b5a;
+     padding: 0;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap {
+     text-align: center;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap h4 {
+     color: #1c4250;
+     line-height: 38px;
+     font-size: 24px;
+     font-weight: 700;
+     font-family: "Montserrat", Helvetica, Arial, Lucida, sans-serif;
+     text-transform: uppercase;
+     margin: 0 0 5px;
+     letter-spacing: 0.05em;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap h4:hover {
+     color: #dc1b5a;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap span {
+     color: #99a9b5;
+     margin: 0 0 28px;
+     text-align: center;
+     line-height: 26px;
+     font-size: 20px;
+     font-family: "Source Sans Pro", Helvetica, Arial, Lucida, sans-serif;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap p {
+     text-align: justify;
+     font-size: 20px;
+     color: #5f727f;
+     font-weight: normal;
+     font-family: "Source Sans Pro", Helvetica, Arial, Lucida, sans-serif;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta {
+     display: grid;
+     align-content: center;
+     justify-content: center;
+     align-items: center;
+     margin: 0 0 20px;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta span.et_email_meta a span {
+     color: #dc1b5a;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta span.et_phone_meta {
+     color: #99a9b5;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta span.et_email_meta a span i.fa-solid.fa-envelope, .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta span.et_phone_meta .fa-solid.fa-phone {
+     margin-right: 10px;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta span.et_phone_meta, .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta span.et_email_meta {
+     margin: 0 0 7px;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_social ul {
+     overflow: hidden;
+     white-space: nowrap;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_social ul li {
+     display: inline-block;
+     padding-right: 10px;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_social ul li a span i.fa-brands {
+     background-color: #b6c5c9;
+     padding: 5px;
+     border-radius: 5px;
+     color: #ffffff82;
+     min-width: 30px;
+}
+ .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_social ul li a span i.fa-brands:hover {
+     background-color: #dc1b5a;
+     color: #fff;
+}
+/* Team paage tab section */
+ .vacancies_heading_team_page h2.et_pb_module_heading {
+     margin-left: 100px;
+}
+ .team_page_tabs .et_pb_tab {
+     padding: 0;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator {
+     padding: 50px;
+     margin: 0;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: nowrap;
+     width: 100%;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col {
+     width: 65%;
+     margin: 0px !important;
+     padding: 0 21px;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_1_3.contact_info_col, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_1_3.contact_info_col {
+     width: 35%;
+     margin: 0px !important;
+     padding: 0 21px;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col h3.title-h3, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col h3.title-h3 {
+     font-family: "Montserrat", Helvetica, Arial, Lucida, sans-serif;
+     font-weight: 700;
+     font-size: 28px;
+     line-height: 42px;
+     color: #1c4250;
+     text-align: left;
+     margin-bottom: 10px;
+     padding-bottom: 0px;
+     text-transform: uppercase;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col .job_listing h4 {
+     font-family: "Montserrat", Helvetica, Arial, Lucida, sans-serif;
+     font-weight: 500;
+     text-transform: uppercase;
+     font-size: 24px;
+     line-height: 26px;
+     color: #1c4250;
+     margin-top: 30px;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col table.job_detials_table {
+     margin: 0 0 50px 0;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col table.job_detials_table td, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col table.job_detials_table th {
+     border: 1px solid #dfe5e8;
+     padding: 5px 10px;
+     color: #5f727f;
+     line-height: 26px;
+     font-family: "Source Sans Pro", Helvetica, Arial, Lucida, sans-serif;
+     font-size: 16px;
+     font-weight: 600;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col table.job_detials_table th {
+     width: 156px;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col table.job_detials_table td {
+     width: 468px;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col p, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col p {
+     font-family: "Source Sans Pro", Helvetica, Arial, Lucida, sans-serif;
+    /* font-size: 18px;
+     */
+     margin: 0 0 1.1em;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col p.job_summary_subtitle, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col p.job_summary_subtitle {
+     font-family: "Source Sans Pro", Helvetica, Arial, Lucida, sans-serif;
+     font-size: 20px;
+     font-weight: 700;
+     margin: 0 0 1.1em;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col ul, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col ul {
+     padding-inline-start: 40px;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col ul li::before, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col ul li::before {
+     content: "";
+     left: -14px;
+     height: 6px;
+     width: 6px;
+     position: absolute;
+     background-color: #e21e58;
+     border-radius: 50%;
+     top: 12px;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col ul li, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col ul li {
+     font-family: "Source Sans Pro", Helvetica, Arial, Lucida, sans-serif;
+    /* font-size: 20px;
+     */
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et-last-child.contact_info_col .widget-title h4.title-h4, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et-last-child.contact_info_col .widget-title h4.title-h4 {
+     color: #3c3950;
+     line-height: 40px;
+     font-size: 20px;
+     font-family: "Montserrat", Helvetica, Arial, Lucida, sans-serif;
+     font-weight: 700;
+     text-transform: uppercase;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et-last-child.contact_info_col .widget-title h4.title-h4 span .fa-caret-right, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et-last-child.contact_info_col .widget-title h4.title-h4 span .fa-caret-right {
+     font-size: 20px;
+     -webkit-transform: rotate(130deg);
+     transform: rotate(130deg);
+     color: #dc1b5a;
+     padding: 0px 5px 0px 15px;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et-last-child.contact_info_col .hbspt-form {
+     margin-top: -1em;
+}
+ .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col div.job_listing p.job_type, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col div.job_listing p.job_wage {
+     margin-bottom: 0;
+     font-weight: 600;
+}
+ .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls {
+     background-color: transparent;
+}
+ .open_vacancies_section .et_pb_tabs_controls li {
+     border: none !important;
+     height: 0px !important;
+     padding-bottom: 0px !important;
+     margin: 10px 15px 0px 0px;
+}
+ .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li > a {
+     border: 1px solid #b6c6c9;
+     background-color: #f4f6f7;
+     padding: 12px 25px;
+     color: #5f727f;
+     font-weight: normal !important;
+     display: inline-block;
+     vertical-align: middle;
+     font-size: 14px;
+}
+ .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li.et_pb_tab_active > a {
+     border: 1px solid #b6c6c9;
+     background-color: #ffffff;
+     padding: 12px 25px;
+     color: #5f727f;
+     font-weight: 700 !important;
+     display: inline-block;
+     vertical-align: middle;
+     font-size: 14px;
+}
+ .open_vacancies_section .et_pb_tabs.team_page_tabs, .open_vacancies_section ul.et_pb_tabs_controls:after {
+     border: none !important;
+}
+ .open_vacancies_section .team_page_tabs .et_pb_all_tabs {
+     border: 1px solid #b6c6c9;
+}
+ .tab_marketing_coordinator .contact_info_col .wpcf7 p {
+     margin-bottom: 20px;
+     width: 100%;
+}
+ .tab_marketing_coordinator .contact_info_col .wpcf7-form .wpcf7-form-control-wrap {
+     display: inline-block;
+     width: 100%;
+     position: relative;
+}
+ .tab_marketing_coordinator .contact_info_col .wpcf7-form input.wpcf7-text {
+     padding: 6px;
+     padding-left: 20px;
+     padding-right: 40px;
+}
+ .tab_marketing_coordinator .contact_info_col .wpcf7-form input {
+     width: 100%;
+     border-radius: 3px;
+     -moz-border-radius: 3px;
+     -webkit-border-radius: 3px;
+     overflow: hidden;
+}
+.et_pb_tabs .et_pb_tab.et_pb_tab_0, .et_pb_tabs .et_pb_tab.et_pb_tab_1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ .wpcf7-form .wpcf7-quiz, .wpcf7-form input[type="number"], .wpcf7-form input[type="date"], .wpcf7-form input.wpcf7-text {
+     padding: 12px;
+     padding-left: 20px;
+}
+ input[type="text"], input[type="password"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="number"], input[type="range"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="month"], input[type="week"], textarea, .combobox-wrapper, #page .woocommerce .select2-container .select2-selection--single, .select2-container .select2-dropdown, .chosen-container-single .chosen-single, .select2-container .select2-choice, select.wpcf7-form-control.wpcf7-select {
+     border: 1px solid #dfe5e8;
+}
+ input[type="text"], input[type="password"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="number"], input[type="range"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="month"], input[type="week"], textarea, select, .chosen-container-single .chosen-single, .select2-container .select2-choice, .widget_product_search form:before {
+     color: #3c3950;
+}
+ input[type="text"], input[type="password"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="number"], input[type="range"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="month"], input[type="week"], textarea, .chosen-container, .select2-container, .checkbox-sign, .radio-sign {
+     background-color: #f4f6f7;
+}
+ input[type="text"], input[type="password"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="number"], input[type="range"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="month"], input[type="week"] {
+     padding: 0 10px;
+     max-width: 100%;
+     vertical-align: middle;
+}
+ input, button, select, textarea {
+     font-family: inherit;
+     font-size: inherit;
+     line-height: inherit;
+}
+ .tab_marketing_coordinator .contact_info_col .wpcf7-form .phone:after, .tab_marketing_coordinator .contact_info_col .wpcf7-form .website:after, .tab_marketing_coordinator .contact_info_col .wpcf7-form .email:after, .tab_marketing_coordinator .contact_info_col .wpcf7-form .name:after {
+     top: 7px;
+}
+ .wpcf7-form span[data-name="phone"]:after, .wpcf7-form span[data-name="website"]:after, .wpcf7-form span[data-name="email"]:after, .wpcf7-form span[data-name="name"]:after {
+     position: absolute;
+     font-family: "FontAwesome";
+     right: 12px;
+     top: 12px;
+     font-size: 24px;
+}
+ .wpcf7-form span[data-name="name"]:after {
+     content: "\f007";
+}
+ .wpcf7-form span[data-name="email"]:after {
+     content: "\f0e0";
+}
+ .wpcf7-form span[data-name="website"]:after {
+     content: "\f0ac";
+}
+ .tab_marketing_coordinator .contact_info_col .wpcf7-form input[type="submit"] {
+     height: 40px;
+     line-height: 21px;
+     padding: 10px 40px;
+     font-size: 14px;
+     background-color: #dc1b5a;
+     margin: 0px 15px 15px 0;
+     color: #ffffff;
+}
+ input[type="submit"] {
+     position: relative;
+     display: inline-block;
+     text-align: center;
+     text-transform: uppercase;
+     white-space: nowrap;
+     border: 0 none;
+     vertical-align: middle;
+     height: 40px;
+     line-height: 40px;
+     padding: 0 17px;
+     font-size: 14px;
+     margin: 25px;
+     -o-transition: all 0.3s;
+     -webkit-transition: all 0.3s;
+     transition: all 0.3s;
+     border-radius: 3px;
+}
+ .tab_marketing_coordinator .contact_info_col .wpcf7-form textarea {
+     border-radius: 3px;
+     -moz-border-radius: 3px;
+     -webkit-border-radius: 3px;
+     overflow: hidden;
+     height: 100px;
+     width: 100%;
+     padding-left: 20px;
+     padding-right: 12px;
+}
+ button, html input[type="button"], input[type="reset"], input[type="submit"] {
+     -webkit-appearance: button;
+     cursor: pointer;
+}
+/* Responsive start */
+@media  screen and (max-width: 1440px) {
+    /* team page */
+    .vacancies_heading_team_page h2.et_pb_module_heading {
+        margin-left: 0px;
+    }
+    .open_vacancies_section .et_pb_row.et_pb_row_4, .open_vacancies_section .et_pb_row.et_pb_row_5 {
+        padding: 0 30px !important;
+    }
+}
+ @media (max-width: 980px) {
+    .et_team_grid .team_wrapper .team_member {
+        padding: 15px 15px;
+    }
+     .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_img_wrap {
+         margin-bottom: 15px;
+    }
+     .open_vacancies_wrapper .et_pb_column_1_4 {
+         width: 25%;
+         margin-bottom: 0px;
+    }
+     .open_vacancies_wrapper .et_pb_column_3_4 {
+         width: 75%;
+         margin-bottom: 0px;
+         position: absolute;
+         top: 49%;
+         left: 25%;
+         transform: translateY(-50%);
+    }
+     .open_vacancies_wrapper .et_pb_column_3_4 .vacancies_heading_team_page h2.et_pb_module_heading {
+         margin-left: 25px;
+         padding-bottom: 0;
+    }
+     /* .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li.et_pb_tab_active > a {
+         padding: 10px;
+    } */
+     .open_vacancies_section .et_pb_tabs_controls li {
+         margin: 10px 10px 0px 0px;
+    }
+     .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator {
+         padding: 15px;
+    }
+     .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col {
+         padding: 0 10px;
+    }
+     .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_1_3.contact_info_col, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_1_3.contact_info_col {
+         padding: 0 10px;
+    }
+     .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col table.job_detials_table {
+         margin: 0 0 30px 0;
+    }
+     .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col ul, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col ul {
+         padding-inline-start: 30px;
+    }
+     .tab_marketing_coordinator .contact_info_col .wpcf7 p {
+         margin-bottom: 10px;
+    }
+     .tab_marketing_coordinator .contact_info_col .wpcf7-form input.wpcf7-text {
+         padding-left: 10px;
+         padding-right: 10px;
+    }
+     .wpcf7-form span[data-name="phone"]:after, .wpcf7-form span[data-name="website"]:after, .wpcf7-form span[data-name="email"]:after, .wpcf7-form span[data-name="name"]:after {
+         right: 10px;
+         top: 8px;
+         font-size: 18px;
+    }
+     .tab_marketing_coordinator .contact_info_col .wpcf7-form textarea {
+         padding-left: 10px;
+         padding-right: 10px;
+    }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1440px) {
+    .open_vacancies_section .et_pb_row.et_pb_row_4, .open_vacancies_section .et_pb_row.et_pb_row_5 {
+        padding: 0 10px !important;
+    }
+}
+@media(max-width: 480px){
+    .et_team_grid .team_wrapper .team_member {
+        padding: 15px 5px;
+    }
+    .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_img_wrap img {
+        height: 150px;
+        width: 150px;
+    }
+    .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap h4 {
+        line-height: 20px;
+        font-size: 18px;
+        margin: 0;
+    }
+    .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_img_wrap {
+        margin-bottom: 5px;
+    }
+    .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap span {
+        margin: 0;
+        line-height: 24px;
+        font-size: 16px;
+    }
+    .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta span.et_email_meta a span i.fa-solid.fa-envelope, .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta span.et_phone_meta .fa-solid.fa-phone {
+        margin-right: 5px;
+    }
+    .et_team_grid .team_wrapper .team_member .team_inner_wrapper .team_info_wrap .team_meta {
+        margin: 0px;
+    }
+    .et_team_grid .team_wrapper .team_member:not(:last-child) {
+        margin-bottom: 0px;
+    }
+    #left-area ul, .entry-content ul, .et-l--body ul, .et-l--footer ul, .et-l--header ul {
+        list-style-type: disc;
+        padding: 0;
+        line-height: 26px;
+    }
+    .open_vacancies_wrapper {
+        width: 100%;
+    }
+    .open_vacancies_wrapper .et_pb_column_1_4 {
+        margin: 0 0 0px !important;
+        width: 25% !important;
+    }
+    .open_vacancies_wrapper .et_pb_column_3_4 {
+        width: 75% !important;
+    }
+    .open_vacancies_wrapper .et_pb_column_3_4 .vacancies_heading_team_page h2.et_pb_module_heading {
+        margin-left: 0px;
+    }
+    .open_vacancies_section .et_pb_row.et_pb_row_4 {
+        margin-top: 0px !important;
+    }
+    .open_vacancies_section .et_pb_row.et_pb_row_4 .et_pb_column .et_pb_module.et_pb_heading_3 {
+        margin-bottom: 5px;
+    }
+    .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator {
+        display: block;
+    }
+    .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col h3.title-h3, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col h3.title-h3 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col table.job_detials_table {
+        margin: 0 0 20px 0;
+    }
+    .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col p, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col p {
+        font-family: "Source Sans Pro", Helvetica, Arial, Lucida, sans-serif;
+        margin: 0 0 0.6em;
+    }
+    .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_account_executive .et_pb_column_2_3.job_detials_col ul, .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col ul {
+        padding-inline-start: 25px;
+    }
+    .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li.et_pb_tab_active > a, .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li > a {
+        padding: 5px 10px;
+    }
+    .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li {
+        display: inline-block;
+    }
+    .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li.et_pb_tab_active > a, .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li > a {
+        padding: 0px 5px;
+    }
+    .open_vacancies_section .et_pb_tabs_controls li {
+        margin: 0px;
+    }
+    .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li.et_pb_tab_active > a {
+        font-size: 12px;
+    }
+    .open_vacancies_section .team_page_tabs ul.et_pb_tabs_controls li > a {
+        font-size: 10px;
+    }
+    .team_page_tabs .et_pb_tab .et_pb_tab_content .tab_marketing_coordinator .et_pb_column_2_3.job_detials_col .job_listing h4 {
+        margin-top: 20px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+        .open_vacancies_section .et_pb_row.et_pb_row_4, .open_vacancies_section .et_pb_row.et_pb_row_5 {
+            padding: 0 10px !important;
+        }
+    }
+}
+/* Responsive end */
+ 

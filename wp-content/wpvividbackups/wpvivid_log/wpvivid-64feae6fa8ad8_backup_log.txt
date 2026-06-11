@@ -1,0 +1,176 @@
+Log created: 2023-09-10 23:06:39
+Type: backup
+[2023-09-10 23:07:02][notice]Start backing up.
+[2023-09-10 23:07:02][notice]server info fcgi:On max execution time: 900 wp version:6.3 php version:8.0.28 db version:8.0.28 php ini:safe_mode: memory_limit:256M memory_get_usage:78.46 MB memory_get_peak_usage:78.71 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-09-10 23:07:02][notice]Prepare to backup backup_db files.
+[2023-09-10 23:07:02][notice]Start exporting database.
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_actionscheduler_actions
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_actionscheduler_claims
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_actionscheduler_groups
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_actionscheduler_logs
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_aioseo_cache
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_aioseo_notifications
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_aioseo_posts
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_commentmeta
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_comments
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_ff_scheduled_actions
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_fluentform_entry_details
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_fluentform_form_analytics
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_fluentform_form_meta
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_fluentform_forms
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_fluentform_logs
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_fluentform_submission_meta
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_fluentform_submissions
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_fluentform_transactions
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_layerslider
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_layerslider_revisions
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_links
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_action_meta
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_actions
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_field_meta
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_fields
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_form_meta
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_forms
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_object_meta
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_objects
+[2023-09-10 23:07:02][notice]Preparing to dump table wp_apqjskq8q5_nf3_relationships
+[2023-09-10 23:07:03][notice]Preparing to dump table wp_apqjskq8q5_ninja_table_items
+[2023-09-10 23:07:03][notice]Preparing to dump table wp_apqjskq8q5_options
+[2023-09-10 23:07:04][notice]Preparing to dump table wp_apqjskq8q5_pantheon_sessions
+[2023-09-10 23:07:04][notice]Preparing to dump table wp_apqjskq8q5_pmxe_exports
+[2023-09-10 23:07:04][notice]Preparing to dump table wp_apqjskq8q5_pmxe_google_cats
+[2023-09-10 23:07:04][notice]Preparing to dump table wp_apqjskq8q5_pmxe_posts
+[2023-09-10 23:07:04][notice]Preparing to dump table wp_apqjskq8q5_pmxe_templates
+[2023-09-10 23:07:04][notice]Preparing to dump table wp_apqjskq8q5_postmeta
+[2023-09-10 23:07:04][notice]Preparing to dump table wp_apqjskq8q5_posts
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_redirection_404
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_redirection_groups
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_redirection_items
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_redirection_logs
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_css
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_css_bkp
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_layer_animations
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_layer_animations_bkp
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_navigations
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_navigations_bkp
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_sliders
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_sliders_bkp
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_slides
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_slides_bkp
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_static_slides
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_revslider_static_slides_bkp
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_sg_action
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_sg_config
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_sg_schedule
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_supsystic_tbl_columns
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_supsystic_tbl_conditions
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_supsystic_tbl_diagrams
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_supsystic_tbl_rows
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_supsystic_tbl_rows_history
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_supsystic_tbl_tables
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_term_relationships
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_term_taxonomy
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_termmeta
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_terms
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_usermeta
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_users
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_wpinventory_category
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_wpinventory_image
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_wpinventory_item
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_wpinventory_item_backup
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_wpinventory_label
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_wpinventory_media
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_wpinventory_status
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_yikes_easy_mc_forms
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_yoast_seo_links
+[2023-09-10 23:07:05][notice]Preparing to dump table wp_apqjskq8q5_yoast_seo_meta
+[2023-09-10 23:07:05][notice]Exporting database finished.
+[2023-09-10 23:07:05][notice]Start compressing backup_db
+[2023-09-10 23:07:05][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_db.zip
+[2023-09-10 23:07:06][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_db.zip, filesize: 1.76 MB
+[2023-09-10 23:07:06][notice]Compressing backup_db completed
+[2023-09-10 23:07:06][notice]Backing up backup_db completed.
+[2023-09-10 23:07:06][notice]Prepare to backup backup_themes files.
+[2023-09-10 23:07:06][notice]File number: 1086
+[2023-09-10 23:07:06][notice]Start compressing backup_themes
+[2023-09-10 23:07:06][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_themes.zip
+[2023-09-10 23:07:18][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_themes.zip, filesize: 31.39 MB
+[2023-09-10 23:07:18][notice]Compressing backup_themes completed
+[2023-09-10 23:07:18][notice]Backing up backup_themes completed.
+[2023-09-10 23:07:20][notice]Prepare to backup backup_plugin files.
+[2023-09-10 23:07:20][notice]File number: 15935
+[2023-09-10 23:07:20][notice]Start compressing backup_plugin
+[2023-09-10 23:07:26][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_plugin.part001.zip
+[2023-09-10 23:08:05][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_plugin.part001.zip, filesize: 194.13 MB
+[2023-09-10 23:08:05][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_plugin.part002.zip
+[2023-09-10 23:10:54][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_plugin.part002.zip, filesize: 49.25 MB
+[2023-09-10 23:10:54][notice]Compressing backup_plugin completed
+[2023-09-10 23:10:54][notice]Backing up backup_plugin completed.
+[2023-09-10 23:10:57][notice]Prepare to backup backup_uploads files.
+[2023-09-10 23:10:57][notice]File number: 5655
+[2023-09-10 23:10:57][notice]Start compressing backup_uploads
+[2023-09-10 23:10:58][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part001.zip
+[2023-09-10 23:11:07][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part001.zip, filesize: 199.10 MB
+[2023-09-10 23:11:07][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part002.zip
+[2023-09-10 23:11:37][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part002.zip, filesize: 200.09 MB
+[2023-09-10 23:11:37][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part003.zip
+[2023-09-10 23:16:39][notice]Not responding for a long time.
+[2023-09-10 23:20:55][notice]Not responding for a long time.
+[2023-09-10 23:25:07][notice]Not responding for a long time.
+[2023-09-10 23:29:10][notice]Add resume event succeeded.. arg1:1694413810 arg2:wpvivid_resume_schedule_event arg3:wpvivid-64feae6fa8ad8
+[2023-09-10 23:29:10][error]Task timed out.
+[2023-09-10 23:29:10][error]Missing resume task,so we create new one.
+[2023-09-10 23:29:10][notice]Add resume event succeeded.. arg1:1694413810 arg2:wpvivid_resume_schedule_event arg3:wpvivid-64feae6fa8ad8
+[2023-09-10 23:30:12][notice]Start backing up.
+[2023-09-10 23:30:12][notice]server info fcgi:On max execution time: 900 wp version:6.3 php version:8.0.28 db version:8.0.28 php ini:safe_mode: memory_limit:256M memory_get_usage:60.44 MB memory_get_peak_usage:60.60 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-09-10 23:30:12][notice]Prepare to backup backup_uploads files.
+[2023-09-10 23:30:12][notice]File number: 5655
+[2023-09-10 23:30:12][notice]Start compressing backup_uploads
+[2023-09-10 23:30:14][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part001.zip
+[2023-09-10 23:30:16][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part001.zip, filesize: 199.10 MB
+[2023-09-10 23:30:16][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part002.zip
+[2023-09-10 23:30:18][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part002.zip, filesize: 200.09 MB
+[2023-09-10 23:30:18][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part003.zip
+[2023-09-10 23:30:20][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part003.zip, filesize: 138.90 MB
+[2023-09-10 23:30:20][notice]Compressing backup_uploads completed
+[2023-09-10 23:30:20][notice]Backing up backup_uploads completed.
+[2023-09-10 23:30:20][notice]Prepare to backup backup_content files.
+[2023-09-10 23:30:20][notice]File number: 12
+[2023-09-10 23:30:20][notice]Start compressing backup_content
+[2023-09-10 23:30:20][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_content.zip
+[2023-09-10 23:30:20][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_content.zip, filesize: 37.46 KB
+[2023-09-10 23:30:20][notice]Compressing backup_content completed
+[2023-09-10 23:30:20][notice]Backing up backup_content completed.
+[2023-09-10 23:30:20][notice]Prepare to backup backup_core files.
+[2023-09-10 23:30:20][notice]File number: 5083
+[2023-09-10 23:30:20][notice]Start compressing backup_core
+[2023-09-10 23:30:22][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_core.zip
+[2023-09-10 23:30:24][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_core.zip, filesize: 100.08 MB
+[2023-09-10 23:30:24][notice]Compressing backup_core completed
+[2023-09-10 23:30:24][notice]Backing up backup_core completed.
+[2023-09-10 23:30:24][notice]Prepare to backup backup_merge files.
+[2023-09-10 23:30:24][notice]File number: 9
+[2023-09-10 23:30:24][notice]Start compressing backup_merge
+[2023-09-10 23:30:25][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part001.zip
+[2023-09-10 23:30:43][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part001.zip, filesize: 192.12 MB
+[2023-09-10 23:30:43][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part002.zip
+[2023-09-10 23:30:43][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part002.zip
+[2023-09-10 23:31:00][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part002.zip, filesize: 193.08 MB
+[2023-09-10 23:31:00][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part001.zip
+[2023-09-10 23:31:00][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part003.zip
+[2023-09-10 23:31:16][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part003.zip, filesize: 68.23 MB
+[2023-09-10 23:31:16][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_plugin.part001.zip
+[2023-09-10 23:31:16][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part004.zip
+[2023-09-10 23:31:28][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part004.zip, filesize: 129.78 MB
+[2023-09-10 23:31:28][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_uploads.part003.zip
+[2023-09-10 23:31:28][notice]Prepare to zip files. file: zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part005.zip
+[2023-09-10 23:31:41][notice]Adding zip files completed.zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_all.part005.zip, filesize: 58.47 MB
+[2023-09-10 23:31:41][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_core.zip
+[2023-09-10 23:31:41][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_plugin.part002.zip
+[2023-09-10 23:31:41][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_themes.zip
+[2023-09-10 23:31:41][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_db.zip
+[2023-09-10 23:31:41][notice]Cleaned up file, filename: /home/dh_pkyjr7/zurichtechsolutions.crosspointcreative.net/wp-content/wpvividbackups/zurichtechsolutions.crosspointcreative.net_wpvivid-64feae6fa8ad8_2023-09-10-23-06_backup_content.zip
+[2023-09-10 23:31:41][notice]Compressing backup_merge completed
+[2023-09-10 23:31:41][notice]Backing up backup_merge completed.
+[2023-09-10 23:31:41][notice]Backup completed.
+[2023-09-10 23:31:41][notice]Backup succeeded.
